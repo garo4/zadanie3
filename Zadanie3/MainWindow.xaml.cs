@@ -83,5 +83,11 @@ namespace Zadanie3
                 c = b.ToCharArray();
             }
         }
+
+        private void Button_Click_1(object sender, RoutedEventArgs e)
+        {
+            awnser.Text = " ";
+
+        }
     }
 }
